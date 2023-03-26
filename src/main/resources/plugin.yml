@@ -1,0 +1,4 @@
+name: GlobalAdvancements
+version: '${project.version}'
+main: me.kermx.globaladvancements.GlobalAdvancements
+api-version: 1.19

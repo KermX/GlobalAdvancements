@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GlobalAdvancements:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GlobalAdvancements_jar</output-path>
+    <root id="archive" name="GlobalAdvancements.jar">
+      <element id="module-output" name="GlobalAdvancements" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+    </root>
+  </artifact>
+</component>
